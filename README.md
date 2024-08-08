@@ -1,7 +1,7 @@
 [![MasterHead](https://31.media.tumblr.com/1ec87f8091178c3bdcb1883e7e4ad0dc/tumblr_nu9vxn8yiv1ud5wpyo1_1280.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmad Afzal</h1>
 <h3 align="center">A Computer Nerd from Kashmir, Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg")
+<img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadafzal007" /> </p>
