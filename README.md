@@ -3,7 +3,7 @@
     <img src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg" alt="MasterHead" ;" />
   </a>
 </p>
-<h1 align="center">Hi 👋, I'm Ahmad Afzal</h1>
+<h1 align="center">Hello, I'm Ahmad Afzal</h1>
 <h3 align="center">A Passionate Software Engineer from Kashmir, Pakistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadafzal007" /> </p>
