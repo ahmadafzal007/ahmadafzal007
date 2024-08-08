@@ -1,5 +1,8 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg)](https://rishavchanda.io)
-
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg" alt="MasterHead" ;" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Ahmad Afzal</h1>
 <h3 align="center">A Passionate Software Engineer from Kashmir, Pakistan</h3>
 
