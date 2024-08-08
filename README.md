@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadafzal007" alt="ahmadafzal007" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/ahmadaf86475963" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadaf86475963?logo=twitter&style=for-the-badge" alt="ahmadaf86475963" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ahmadaf86475963" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadaf86475963?logo=twitter&style=for-the-badge" alt="Ahmad Afzal" /></a> </p>
 
 - 🔭 I’m currently working on **MedTalk (A sophisticated medical diagnostic system)**
 - 🌱 I’m currently learning **Cloud Computing**
@@ -69,7 +69,7 @@
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/ahmadafzal007">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&show_icons=true&theme=tokyonight" alt="ahmadafzal007" style="margin-bottom: 10px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&show_icons=true&theme=tokyonight" alt="ahmadafzal007" style="margin: 10px;" />
   </a>
   <a href="https://github.com/ahmadafzal007">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadafzal007&theme=tokyonight" alt="ahmadafzal007" />
