@@ -69,7 +69,7 @@
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/ahmadafzal007">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&show_icons=true&theme=tokyonight" alt="ahmadafzal007" style="margin-bottom: 2px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&show_icons=true&theme=tokyonight" alt="ahmadafzal007" style="margin-bottom: 10px;" />
   </a>
   <a href="https://github.com/ahmadafzal007">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadafzal007&theme=tokyonight" alt="ahmadafzal007" />
