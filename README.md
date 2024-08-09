@@ -10,7 +10,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadafzal007" alt="ahmadafzal007" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/ahmadaf86475963" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadaf86475963?logo=twitter&style=for-the-badge" alt="Ahmad Afzal" /></a> </p>
 
 - 🔭 I’m currently working on **MedTalk (A sophisticated medical diagnostic system)**
 - 🌱 I’m currently learning **Cloud Computing**
