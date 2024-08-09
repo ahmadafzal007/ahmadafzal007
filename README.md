@@ -22,7 +22,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ahmadaf86475963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadaf86475963" height="40" width="50" style="margin: 0 10px;" /></a>
 <a href="https://linkedin.com/in/in/ahmed-afzal-0074981b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ahmed-afzal-0074981b8" height="40" width="50" style="margin: 0 10px;" /></a>
 <a href="https://stackoverflow.com/users/26687255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26687255" height="40" width="50" style="margin: 0 10px;" /></a>
 <a href="https://kaggle.com/ahmadchoudary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmadchoudary" height="40" width="50" style="margin: 0 10px;" /></a>
