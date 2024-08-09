@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hello, I'm Ahmad Afzal</h1>
-<h3 align="center">A Passionate Software Engineer from Kashmir, Pakistan</h3>
+<h3 align="center">Code like a poet, debug like a detective</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadafzal007" /> </p>
 
