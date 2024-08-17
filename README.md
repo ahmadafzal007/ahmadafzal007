@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MedTalk (A sophisticated medical diagnostic system)**
 - 🌱 I’m currently learning **Cloud Computing**
-- 💬 Ask me about **MERN Stack, Machine Learning, Computer Vision, Generative AI, Cloud Computing**
+- 💬 Ask me about **MERN Stack, Machine Learning, Natural Language Processing, Computer Vision, Generative AI, Cloud Computing**
 - 📫 How to reach me **ahmadafzalch007@gmail.com**
 
 ### Blogs posts
