@@ -1,6 +1,6 @@
 <p align="center">
  <a> 
-    <img src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg" alt="MasterHead" ;" />
+    <img src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg" alt="MasterHead" ;" /> 
   </a>
 </p>
 <h1 align="center">Hello, I'm Ahmad Afzal </h1>
