@@ -1,74 +1,69 @@
 <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg" alt="MasterHead" class="profile-banner animate__animated animate__fadeIn" />
+  <a>
+    <img src="https://w0.peakpx.com/wallpaper/331/596/HD-wallpaper-the-human-revolution-human-people-computer-black-evolution-nerd-wall-style.jpg" alt="MasterHead" width="800"/>
+  </a>
 </p>
 
-<h1 align="center" class="animate__animated animate__pulse">Hello, I'm Ahmad Afzal</h1>
-<h3 align="center" class="typing-effect">Code like a poet, debug like a detective</h3>
+<h1 align="center">Hello, I'm <span style="color:#ff6347;">Ahmad Afzal</span> 🚀</h1>
+<h3 align="center">Code like a poet, debug like a detective 🔎</h3>
 
-<style>
-  body {
-    background: linear-gradient(45deg, #1a1a2e, #16213e);
-    color: #e94560;
-    font-family: 'Cascadia Code', monospace;
-  }
+---
 
-  .profile-banner {
-    max-width: 100%;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    transition: transform 0.3s ease;
-  }
-
-  .profile-banner:hover {
-    transform: scale(1.02);
-  }
-
-  .typing-effect {
-    animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid #e94560;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #e94560 }
-  }
-</style>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" class="animate__animated animate__fadeInUp"> 
-  <!-- Existing tools -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" class="tool-icon" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="60" height="60" class="tool-icon" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="60" height="60" class="tool-icon" />
-  </a>
-  <!-- Existing tools from previous profile -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<style>
-  .tool-icon {
-    margin: 0 15px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-    filter: grayscale(50%);
-  }
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadafzal007&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies"/>
+  </a>
+</p>
 
-  .tool-icon:hover {
-    transform: scale(1.2);
-    filter: grayscale(0%);
-  }
-</style>
+## 🚀 About Me
+- 🔭 Currently working on **MedTalk (A sophisticated medical diagnostic system)**
+- 🌱 Learning **Cloud Computing**
+- 💬 Ask me about **MERN Stack, Machine Learning, NLP, Computer Vision, Generative AI, Cloud Computing**
+- 📫 Reach me at **ahmadafzalch007@gmail.com**
+
+---
+
+## 📢 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-afzal-0074981b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/26687255"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://kaggle.com/ahmadchoudary"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://fb.com/ahmad.afzal.54"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_ahmedafxal_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://medium.com/@ahmadafzalch007"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/ahmadafzal4340"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/ahmadafzalch007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,css,django,docker,express,figma,firebase,git,html,java,js,kubernetes,linux,mongodb,mysql,nginx,nodejs,oracle,postman,python,react,redux,sqlite,tailwind,ts,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadafzal007&theme=radical" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadafzal007&langs_count=10&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🎶 Fun Fact: Coding is like magic but without wands 🪄
