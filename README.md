@@ -148,10 +148,10 @@
 ## <div align="center">🚀 Featured Projects</div>
 
 <div align="center">
-  <a href="https://github.com/ahmadafzal007">
+  <a href="[https://github.com/ahmadafzal007](https://github.com/ahmadafzal007/SMART-MARKETPLACE.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadafzal007&repo=your-repo-name&theme=tokyonight" width="49%" />
   </a>
-  <a href="https://github.com/ahmadafzal007">
+  <a href="https://github.com/ahmadafzal007/3D-Teacher.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadafzal007&repo=your-repo-name&theme=tokyonight" width="49%" />
   </a>
 </div>
