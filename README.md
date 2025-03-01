@@ -1,41 +1,63 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ahmed%20Afzal&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descAlignY=55&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,20&height=300&section=header&text=Ahmed%20Afzal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
+<!-- Animated visitor badge -->
 <div align="center">
   <a href="https://github.com/ahmadafzal007">
     <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmadafzal007" />
   </a>
 </div>
 
+<!-- Animated typing effect with more text variations -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Building+Innovative+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00E7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Building+Innovative+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </div>
 
+<!-- Animated particles background -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
+<!-- Animated sparkles -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OGQzMzY3MzEwZDFhZDI5ZDQ5MmJlYTY3MzRkOTAwMDIxYmNlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" alt="rocket">
   About Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OGQzMzY3MzEwZDFhZDI5ZDQ5MmJlYTY3MzRkOTAwMDIxYmNlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" alt="rocket">
 </h2>
+
+<!-- Animated border -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <p align="center">
 I am a highly adaptable Full Stack Developer with a strong foundation in modern web technologies, machine learning, and data science. My expertise lies in designing and developing scalable, efficient, and user-centric applications that address real-world challenges. With a keen interest in emerging technologies, I am continually exploring innovative solutions to enhance system performance, optimize workflows, and drive meaningful impact through data-driven insights and intelligent automation.
 </p>
 
+<!-- Animated border -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadafzal007&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Animated stats cards with hover effect -->
+<div align="center">
+  <a href="https://github.com/ahmadafzal007">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/ahmadafzal007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadafzal007&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+  </a>
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="35px" alt="laptop">
   Tech Stack
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="35px" alt="laptop">
 </h2>
 
 <details open>
@@ -92,22 +114,31 @@ I am a highly adaptable Full Stack Developer with a strong foundation in modern 
 </table>
 </details>
 
+<!-- Animated border -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Animated skill bars -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
-  GitHub Stats
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" alt="skills">
+  Skills Progress
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" alt="skills">
 </h2>
 
 <div align="center">
-  <a href="https://github.com/ahmadafzal007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadafzal007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadafzal007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<!-- Animated skill progress bars -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IdyAQJVN2kVPNUrojM/giphy.gif" width="35px" alt="trophy">
   GitHub Trophies
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IdyAQJVN2kVPNUrojM/giphy.gif" width="35px" alt="trophy">
 </h2>
 
 <div align="center">
@@ -115,19 +146,24 @@ I am a highly adaptable Full Stack Developer with a strong foundation in modern 
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="chart">
   Top Contributed Repositories
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="chart">
 </h2>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ahmadafzal007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
+<!-- Animated border -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="35px" alt="github">
   Activity Graph
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="35px" alt="github">
 </h2>
 
 <div align="center">
@@ -135,11 +171,12 @@ I am a highly adaptable Full Stack Developer with a strong foundation in modern 
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HQTYdpx1yhxWpugAi2/giphy.gif" width="35px" alt="connect">
   Connect With Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HQTYdpx1yhxWpugAi2/giphy.gif" width="35px" alt="connect">
 </h2>
 
+<!-- Animated social media buttons -->
 <div align="center">
   <a href="https://linkedin.com/in/ahmed-afzal-0074981b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -155,38 +192,42 @@ I am a highly adaptable Full Stack Developer with a strong foundation in modern 
   </a>
 </div>
 
+<!-- Animated handshake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="100" height="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
+  <p><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</p>
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" alt="quote">
   Random Dev Quote
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" alt="quote">
 </h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
+<!-- Animated coding gif -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding">
 </div>
 
+<!-- Animated footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
 
 <div align="center">
   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     Thanks for visiting!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
   <p>Feel free to reach out for collaborations or just a friendly chat!</p>
   
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="50" height="50" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dxn6fRlTIShoeBr69N/giphy.gif" width="50" height="50" />
 </div>
 
 <!-- Animated wave effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
