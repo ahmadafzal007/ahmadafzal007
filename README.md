@@ -220,14 +220,9 @@ I am a highly adaptable Full Stack Developer with a strong foundation in modern 
 
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     Thanks for visiting!
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
   <p>Feel free to reach out for collaborations or just a friendly chat!</p>
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dxn6fRlTIShoeBr69N/giphy.gif" width="50" height="50" />
 </div>
-
-<!-- Animated wave effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
