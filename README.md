@@ -13,7 +13,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a versatile Full Stack Developer with expertise in modern web technologies, machine learning, and data science. I enjoy building scalable applications and exploring new technologies to solve real-world problems.
+I am a highly adaptable Full Stack Developer with a strong foundation in modern web technologies, machine learning, and data science. My expertise lies in designing and developing scalable, efficient, and user-centric applications that address real-world challenges. With a keen interest in emerging technologies, I am continually exploring innovative solutions to enhance system performance, optimize workflows, and drive meaningful impact through data-driven insights and intelligent automation.
 </p>
 
 <div align="center">
@@ -25,8 +25,6 @@
 
 <details open>
 
-
-<h3 align="center">🔥 My Tech Arsenal</h3>
 
 <table align="center">
   <tr>
@@ -137,5 +135,4 @@
   <h3>Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h3>
   <p>Feel free to reach out for collaborations or just a friendly chat!</p>
   
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
