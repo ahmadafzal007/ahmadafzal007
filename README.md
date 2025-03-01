@@ -24,14 +24,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <details open>
-<summary><h3 align="center">🛠️ Languages and Tools</h3></summary>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui,threejs,vite,nodejs,express,django,flask,python,java,graphql,firebase,mongodb,mysql,postgres,sqlite,supabase,redis,docker,kubernetes,git,github,githubactions,vercel,jenkins,nginx,postman,tensorflow,pytorch,r,opencv,figma,xd,ai&theme=dark&perline=14" />
-  </a>
-</p>
-</details>
+
 
 <h3 align="center">🔥 My Tech Arsenal</h3>
 
