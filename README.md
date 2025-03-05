@@ -11,7 +11,7 @@
 
 <!-- Animated typing effect with more text variations -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00E7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00E7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Engineer;Curious+to+Learn+New+Technologies" alt="Typing SVG" />
 </div>
 
 <!-- Animated particles background -->
