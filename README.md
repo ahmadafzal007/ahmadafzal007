@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,20&height=300&section=header&text=Ahmed%20Afzal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descAlignY=55&descAlign=62" width="100%" />
-</div>
+ </div>
 
 <!-- Animated visitor badge -->
 <div align="center">
