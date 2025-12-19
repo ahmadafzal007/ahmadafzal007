@@ -1,228 +1,313 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,20&height=300&section=header&text=Ahmed%20Afzal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descAlignY=55&descAlign=62" width="100%" />
- </div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 AHMED AFZAL - PROFESSIONAL GITHUB PROFILE README -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Animated visitor badge -->
+<!-- Hero Section with Premium Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmed%20Afzal&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20Engineer%20•%20💻%20Software%20Developer%20•%20⚛️%20React%20Specialist&descAlignY=55&descSize=18" width="100%" />
+</div>
+
+<!-- Animated Badges Row -->
 <div align="center">
   <a href="https://github.com/ahmadafzal007">
-    <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmadafzal007" />
+    <img src="https://komarev.com/ghpvc/?username=ahmadafzal007&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ahmadafzal007?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmadafzal007?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  </a>
+  <a href="https://github.com/ahmadafzal007">
+    <img src="https://img.shields.io/github/stars/ahmadafzal007?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars" />
   </a>
 </div>
 
-<!-- Animated typing effect with more text variations -->
+<br/>
+
+<!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00E7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Engineer;Curious+to+Learn+New+Technologies" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Engineering+Intelligent+AI+Solutions;%E2%9A%9B%EF%B8%8F+Crafting+Modern+React+Applications;%F0%9F%9A%80+Building+Production-Ready+Software;%F0%9F%92%A1+Transforming+Complex+Ideas+Into+Elegant+Code" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- Animated particles background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</p>
+<br/>
 
-<!-- Animated sparkles -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OGQzMzY3MzEwZDFhZDI5ZDQ5MmJlYTY3MzRkOTAwMDIxYmNlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" alt="rocket">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" />
   About Me
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OGQzMzY3MzEwZDFhZDI5ZDQ5MmJlYTY3MzRkOTAwMDIxYmNlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px" alt="rocket">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
 </h2>
 
-<!-- Animated border -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-I am a highly adaptable Full Stack Developer with a strong foundation in modern web technologies, machine learning, and data science. My expertise lies in designing and developing scalable, efficient, and user-centric applications that address real-world challenges. With a keen interest in emerging technologies, I am continually exploring innovative solutions to enhance system performance, optimize workflows, and drive meaningful impact through data-driven insights and intelligent automation.
-</p>
+### 🎯 Quick Facts
 
-<!-- Animated border -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+```yaml
+name: Ahmed Afzal
+role: AI Engineer & Software Developer
+location: 🌍 Global
+current_focus: Building Intelligent Software Solutions
+expertise:
+  - Artificial Intelligence & LLMs
+  - React & JavaScript Ecosystem
+  - Software Architecture
+  - Cloud-Native Development
+motto: "Engineering excellence through innovation"
+```
 
-<!-- Animated stats cards with hover effect -->
-<div align="center">
-  <a href="https://github.com/ahmadafzal007">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/ahmadafzal007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadafzal007&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-  </a>
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🌟 What I Do
+
+- 🤖 Architecting **AI-powered software solutions**
+- ⚛️ Building **scalable React & JavaScript applications**
+- 🧠 Developing **LLM integrations & AI agents**
+- 🏗️ Designing **robust software architectures**
+- 🚀 Delivering **high-performance, production-ready code**
+- 💎 Philosophy: *"Code with purpose, build with precision"*
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATISTICS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="35px" alt="laptop">
-  Tech Stack
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="35px" alt="laptop">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="40" height="40" />
+  GitHub Statistics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="40" height="40" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadafzal007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=ahmadafzal007&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadafzal007&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="320" />
+</div>
+
+<br/>
+
+<!-- GitHub Trophies - Fixed URL -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadafzal007&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" />
+  Tech Arsenal
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 </h2>
 
 <details open>
-<table align="center">
-  <tr>
-    <td align="center">
-      <h4>Frontend</h4>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br>
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-    </td>
-    <td align="center">
-      <h4>Backend</h4>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /><br>
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
-    </td>
-    <td align="center">
-      <h4>Database</h4>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /><br>
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>DevOps</h4>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-    </td>
-    <td align="center">
-      <h4>ML/AI</h4>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    </td>
-    <td align="center">
-      <h4>Tools</h4>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<summary><b>⚛️ Frontend & JavaScript Ecosystem</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,html,css,tailwind,sass,materialui,vite,webpack&perline=6" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 </details>
 
-<!-- Animated border -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,graphql,python,java,go&perline=5" />
+</p>
+</details>
 
-<!-- Animated skill bars -->
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,aws,gcp,azure,vercel&perline=5" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI Engineering & Intelligent Systems</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python&perline=5" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG%20Systems-00ADD8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-4285F4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,jenkins,linux,bash,vim,vscode&perline=5" />
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📈 CONTRIBUTION GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" alt="skills">
-  Skills Progress
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" alt="skills">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
+  Contribution Graph
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadafzal007&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadafzal007&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
 
-<!-- Animated skill progress bars -->
+<br/>
+
+<!-- Profile Summary Card -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadafzal007&theme=tokyonight" width="90%" alt="Profile Summary" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadafzal007&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadafzal007&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadafzal007&theme=tokyonight&utcOffset=5" width="32%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🤝 CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IdyAQJVN2kVPNUrojM/giphy.gif" width="35px" alt="trophy">
-  GitHub Trophies
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IdyAQJVN2kVPNUrojM/giphy.gif" width="35px" alt="trophy">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" />
+  Let's Connect
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" />
 </h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadafzal007&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&exclude=Issues" alt="GitHub Trophies" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="chart">
-  Top Contributed Repositories
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="chart">
-</h2>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahmadafzal007&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
-<!-- Animated border -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="35px" alt="github">
-  Activity Graph
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="35px" alt="github">
-</h2>
-
-<div align="center">
-  <img alt="Ahmed Afzal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadafzal007&theme=redical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HQTYdpx1yhxWpugAi2/giphy.gif" width="35px" alt="connect">
-  Connect With Me
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HQTYdpx1yhxWpugAi2/giphy.gif" width="35px" alt="connect">
-</h2>
-
-<!-- Animated social media buttons -->
 <div align="center">
   <a href="https://linkedin.com/in/ahmed-afzal-0074981b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/_ahmedafxal_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@ahmadafzal4340" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://facebook.com/ahmad.afzal.54" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/_ahmedafxal_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@ahmadafzal4340" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
-<!-- Animated handshake -->
+<br/>
+
+<!-- Quote Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
-  <p><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20engineer%20it.&author=Alan%20Kay" alt="Dev Quote" />
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 SUPPORT SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" alt="quote">
-  Random Dev Quote
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" alt="quote">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Support" width="40" height="40" />
+  Support My Work
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="40" height="40" />
 </h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <a href="https://www.buymeacoffee.com/yourhandle">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://ko-fi.com/yourhandle">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
 </div>
 
-<!-- Animated coding gif -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding">
-</div>
+<br/>
 
-<!-- Animated footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h3>
-    Thanks for visiting!
-  </h3>
-  <p>Feel free to reach out for collaborations or just a friendly chat!</p>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0YzFmMzEzZGM0ZmE3ZDI5ZjQ5YzBjNDJiYTMxYTM0MWNhMDg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dxn6fRlTIShoeBr69N/giphy.gif" width="50" height="50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Heart" width="30" height="30" />
+  <b>Happy Coding!</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Heart" width="30" height="30" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Excellence is not a destination but a continuous journey of innovation."</i>
+  <br/>
+  <b>— Building the future, one commit at a time.</b>
+</div>
+
+<br/>
+
+<!-- Last Updated Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-December%202025-A855F7?style=flat-square" alt="Last Updated" />
 </div>
