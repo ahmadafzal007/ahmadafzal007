@@ -1,6 +1,6 @@
 <!-- Header: Terminal Style -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=systemctl+start+ahmed-afzal;echo+%22AI+Engineer+%7C+Raw+Coder%22;while(true)+{+code();+}" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=systemctl+start+ahmed-afzal;echo+%22AI+Engineer%22;while(true)+{+code();+}" alt="Typing SVG" />
 </div>
 
 <p align="center">
