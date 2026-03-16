@@ -177,10 +177,10 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 
 </div>
 
@@ -189,15 +189,13 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-<!-- LangChain: use simple-icons CDN -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" style="filter:invert(1);">
-<!-- OpenAI: use simpleicons.org CDN (correct, reliable) -->
-<img src="https://cdn.simpleicons.org/openai/c9d1d9">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg">
 
 </div>
 
@@ -206,9 +204,9 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 
 </div>
 
@@ -217,11 +215,11 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 
 </div>
 
@@ -230,13 +228,11 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-<!-- Supabase: use simple-icons CDN -->
-<img src="https://cdn.simpleicons.org/supabase/c9d1d9">
-<!-- Pinecone: not in simple-icons, use their official favicon via unpkg or a fallback SVG badge -->
-<img src="https://cdn.simpleicons.org/pinecone/c9d1d9" onerror="this.src='https://avatars.githubusercontent.com/u/54333248?s=40&v=4'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg">
 
 </div>
 
@@ -245,14 +241,13 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg">
-<!-- AWS: corrected devicon URL using @latest -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
 
 </div>
 
@@ -261,12 +256,9 @@ Developed deepfake detection systems
 
 <div class="tech-grid">
 
-<!-- Stripe: corrected devicon URL using @latest -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg">
-<!-- n8n: use simple-icons CDN -->
-<img src="https://cdn.simpleicons.org/n8n/c9d1d9">
-<!-- ComfyUI: not in simple-icons or devicons, use GitHub avatar as fallback -->
-<img src="https://avatars.githubusercontent.com/u/121283862?s=40&v=4" style="border-radius:6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/comfyui.svg">
 
 </div>
 
