@@ -76,7 +76,6 @@ Machine Learning Engineer — Devhawks        2023 → 2024
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="40" height="40"/>
 
 </div>
 
@@ -142,9 +141,7 @@ Machine Learning Engineer — Devhawks        2023 → 2024
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/n8n" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/121283862?s=40&v=4" width="40" height="40"/>
 
 </div>
 
